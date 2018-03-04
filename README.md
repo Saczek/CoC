@@ -1,5 +1,5 @@
-# CoC
-Collection of curiosities
+# Collection of curiosities
+
 This file should include useful links
 
 Why this is extis? Because I don't want to lose knowledge.
@@ -9,7 +9,7 @@ Why this is extis? Because I don't want to lose knowledge.
 
 <!-- toc -->
 - [Good to remember](#useful-links)
-- [C/CPP Programming](#cpp-programming)
+- [C/CPP Programming](#c-and-cpp-programming)
 - [Just Embedded things](#just-embedded-things)
 - [LTE](#lte)
 - [Improvement of language](#improvement-of-language)
@@ -22,7 +22,7 @@ Why this is extis? Because I don't want to lose knowledge.
 1. [Many books from SO to learn programming](http://goalkicker.com)
 2. [Syntax *.md files](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
-## CPP Programming
+## C and CPP Programming
 1. [Embedded C. Michael J. Pont](http://www.ecpe.nu.ac.th/ponpisut/22323006-Embedded-c-Tutorial-8051.pdf)
   - 1a. [Programming Embedded Systems I](ftp://ftp.ti.com/pub/data_acquisition/MSC_CD-ROM/C_Programming/PrgEmbeddeSys_1perPage.pdf)
   - 1b. [Programming Embedded Systems II](http://www.iuma.ulpgc.es/~nunez/clases-sed-mai-8051/8051-Leicester-UCRiverside/Pont-EmbeddedC-Schedulers-Leicester-pes2ohp_a4.pdf)
@@ -34,8 +34,7 @@ Why this is extis? Because I don't want to lose knowledge.
   - 1b. [Introduction to Embedded Systems - A Cyber-Physical Systems Approach](http://leeseshia.org/releases/LeeSeshia_DigitalV1_06.pdf)
   - [Embedded Systems Design. Second edition](http://read.pudn.com/downloads158/ebook/707037/Embedded%20Systems%20Design%20-%202ed%20-%200750655461.pdf)
  2. Embedded systems
- >
-  - 2a. (Operating Systems, Embedded Systems and Real-Time Systems )[http://fides.fe.uni-lj.si/~janezp/operating_systems_embedded_systems_and_real-time_systems.pdf]
+  - 2a. [Operating Systems, Embedded Systems and Real-Time Systems](http://fides.fe.uni-lj.si/~janezp/operating_systems_embedded_systems_and_real-time_systems.pdf)
 
 
 ## LTE
