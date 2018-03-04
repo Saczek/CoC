@@ -9,7 +9,7 @@ Why this is extis? Because I don't want to lose knowledge.
 
 <!-- toc -->
 - [Good to remember](#Useful-links)
-- [C/Cpp Programming](#c/cpp-programming)
+- [C/C++ Programming](#C/C++-Programming)
 - [Just Embedded things](#just-embedded-things)
 - [3gpp/LTE](#LTE)
 - [Improvement of language](#improvement-of-language)
@@ -18,7 +18,7 @@ Why this is extis? Because I don't want to lose knowledge.
 
 <!-- tocstop -->
 
-## Useful-links
+## Useful links
 1. [Many books from SO to learn programming](http://goalkicker.com)
 2. [Syntax *.md files](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
@@ -30,12 +30,12 @@ Why this is extis? Because I don't want to lose knowledge.
 ## Just Embedded things
 1. Basic
 > Books about cpu architecture, how to write code for embedded and something about Kernel
-  - [Programming Embedded Systems, Second Edition with C and GNU Development Tools](http://stepsmail.com/download/Career-In-Embedded-System.PDF)
-  - [Introduction to Embedded Systems - A Cyber-Physical Systems Approach](http://leeseshia.org/releases/LeeSeshia_DigitalV1_06.pdf)
+  - 1a. [Programming Embedded Systems, Second Edition with C and GNU Development Tools](http://stepsmail.com/download/Career-In-Embedded-System.PDF)
+  - 1b. [Introduction to Embedded Systems - A Cyber-Physical Systems Approach](http://leeseshia.org/releases/LeeSeshia_DigitalV1_06.pdf)
   - [Embedded Systems Design. Second edition](http://read.pudn.com/downloads158/ebook/707037/Embedded%20Systems%20Design%20-%202ed%20-%200750655461.pdf)
  2. Embedded systems
  >
- 2a. (Operating Systems, Embedded Systems and Real-Time Systems )[http://fides.fe.uni-lj.si/~janezp/operating_systems_embedded_systems_and_real-time_systems.pdf]
+  - 2a. (Operating Systems, Embedded Systems and Real-Time Systems )[http://fides.fe.uni-lj.si/~janezp/operating_systems_embedded_systems_and_real-time_systems.pdf]
 
 
 ## LTE
