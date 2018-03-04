@@ -1,25 +1,32 @@
 # CoC
 Collection of curiosities
+This file should include useful links
 
-desription
-
+Why this is extis? Because I don't want to lose knowledge.
 
 
 ## Contents
 
 <!-- toc -->
-
+- [Good to remember webs](#Useful-links)
 - [C/Cpp Programming](#c/cpp-programming)
 - [Just Embedded things](#just-embedded-things)
+- [3gpp/LTE](#LTE)
 - [Improvement of language](#improvement-of-language)
 - [Useful Skills](#useful-skills)
 - [Soft skills](#soft-skills)
 
 <!-- tocstop -->
 
+##Useful-links
+Many books from SO to learn programming http://goalkicker.com
+
 ##C/Cpp Programming
 
 ##Just Embedded things
+
+##LTE
+Basics of LTE https://www.youtube.com/channel/UCf5srFJ-JofnE8r-bn1o1VA
 
 ##Improvement of language
 
