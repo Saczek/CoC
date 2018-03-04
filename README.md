@@ -19,14 +19,15 @@ Why this is extis? Because I don't want to lose knowledge.
 <!-- tocstop -->
 
 ##Useful-links
-Many books from SO to learn programming http://goalkicker.com
+1. Many books from SO to learn programming http://goalkicker.com
+2. Syntax *.md files https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 ##C/Cpp Programming
 
 ##Just Embedded things
 
 ##LTE
-Basics of LTE https://www.youtube.com/channel/UCf5srFJ-JofnE8r-bn1o1VA
+1. Basics of LTE https://www.youtube.com/channel/UCf5srFJ-JofnE8r-bn1o1VA
 
 ##Improvement of language
 
