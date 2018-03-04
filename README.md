@@ -8,10 +8,10 @@ Why this is extis? Because I don't want to lose knowledge.
 ## Contents
 
 <!-- toc -->
-- [Good to remember](#Useful-links)
-- [C/C++ Programming](#C/C++-Programming)
+- [Good to remember](#useful-links)
+- [C/CPP Programming](#cpp-programming)
 - [Just Embedded things](#just-embedded-things)
-- [3gpp/LTE](#LTE)
+- [LTE](#lte)
 - [Improvement of language](#improvement-of-language)
 - [Useful Skills](#useful-skills)
 - [Soft skills](#soft-skills)
@@ -22,7 +22,7 @@ Why this is extis? Because I don't want to lose knowledge.
 1. [Many books from SO to learn programming](http://goalkicker.com)
 2. [Syntax *.md files](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
-## C/C++ Programming
+## CPP Programming
 1. [Embedded C. Michael J. Pont](http://www.ecpe.nu.ac.th/ponpisut/22323006-Embedded-c-Tutorial-8051.pdf)
   - 1a. [Programming Embedded Systems I](ftp://ftp.ti.com/pub/data_acquisition/MSC_CD-ROM/C_Programming/PrgEmbeddeSys_1perPage.pdf)
   - 1b. [Programming Embedded Systems II](http://www.iuma.ulpgc.es/~nunez/clases-sed-mai-8051/8051-Leicester-UCRiverside/Pont-EmbeddedC-Schedulers-Leicester-pes2ohp_a4.pdf)
