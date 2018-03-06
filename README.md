@@ -14,7 +14,6 @@ Why this is extis? Because I don't want to lose knowledge.
 - [LTE](#lte)
 - [Improvement of language](#improvement-of-language)
 - [Useful Skills](#useful-skills)
-- [Soft skills](#soft-skills)
 
 <!-- tocstop -->
 
@@ -44,5 +43,3 @@ Why this is extis? Because I don't want to lose knowledge.
 ## Improvement of language
 
 ## Useful Skills
-
-## Soft skills
