@@ -20,6 +20,7 @@ Why this is extis? Because I don't want to lose knowledge.
 ## Useful links
 1. [Many books from SO to learn programming](http://goalkicker.com)
 2. [Syntax *.md files](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+3. [CV Generator](https://latexresu.me)
 
 ## C and CPP Programming
 1. [Embedded C. Michael J. Pont](http://www.ecpe.nu.ac.th/ponpisut/22323006-Embedded-c-Tutorial-8051.pdf)
