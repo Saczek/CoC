@@ -10,7 +10,7 @@ Why this is extis? Because I don't want to lose knowledge.
 <!-- toc -->
 - [Good to remember](#useful-links)
 - [C/CPP Programming](#c-and-cpp-programming)
-- [C Sharp](c-sharp)
+- [C sharp](c-sharp)
 - [Just Embedded things](#just-embedded-things)
 - [LTE](#lte)
 - [Qt](#qt)
