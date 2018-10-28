@@ -15,6 +15,7 @@ Why this is extis? Because I don't want to lose knowledge.
 - [Just Embedded things](#just-embedded-things)
 - [LTE](#lte)
 - [Qt](#qt)
+- [Machine Learning](#machine-learning)
 - [Improvement of language](#improvement-of-language)
 - [Useful Skills](#useful-skills)
 
@@ -57,6 +58,10 @@ Why this is extis? Because I don't want to lose knowledge.
 ## Programming exercise
 
 1. [Exercise](https://exercism.io/tracks/csharp/exercises)
+
+## Machine Learning
+
+1. [Open AI - GYM](https://gym.openai.com/docs/)
 
 ## Improvement of language
 
