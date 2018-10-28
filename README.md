@@ -11,6 +11,7 @@ Why this is extis? Because I don't want to lose knowledge.
 - [Good to remember](#useful-links)
 - [C/CPP Programming](#c-and-cpp-programming)
 - [C sharp](c-sharp)
+- [Programming exercise](#programming-exercise)
 - [Just Embedded things](#just-embedded-things)
 - [LTE](#lte)
 - [Qt](#qt)
@@ -50,6 +51,10 @@ Why this is extis? Because I don't want to lose knowledge.
 ## C sharp
 
 1. [Build game using WPF](https://scottlilly.com/build-a-cwpf-rpg/)
+
+## Programming exercise
+
+1. [Exercise](https://exercism.io/tracks/csharp/exercises)
 
 ## Improvement of language
 
