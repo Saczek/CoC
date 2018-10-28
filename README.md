@@ -10,6 +10,7 @@ Why this is extis? Because I don't want to lose knowledge.
 <!-- toc -->
 - [Good to remember](#useful-links)
 - [C/CPP Programming](#c-and-cpp-programming)
+- [C#](c#)
 - [Just Embedded things](#just-embedded-things)
 - [LTE](#lte)
 - [Qt](#qt)
@@ -45,6 +46,10 @@ Why this is extis? Because I don't want to lose knowledge.
 ## QT
 
 1. [QML](https://qmlbook.github.io/)
+
+## C#
+
+1. [Build game using WPF](https://scottlilly.com/build-a-cwpf-rpg/)
 
 ## Improvement of language
 
