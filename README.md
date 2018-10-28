@@ -51,6 +51,8 @@ Why this is extis? Because I don't want to lose knowledge.
 ## C sharp
 
 1. [Build game using WPF](https://scottlilly.com/build-a-cwpf-rpg/)
+2. [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/)
+3. [C# for begginers- Youtube](https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105&index=1)
 
 ## Programming exercise
 
