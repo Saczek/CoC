@@ -12,6 +12,7 @@ Why this is extis? Because I don't want to lose knowledge.
 - [C/CPP Programming](#c-and-cpp-programming)
 - [Just Embedded things](#just-embedded-things)
 - [LTE](#lte)
+- [Qt](#qt)
 - [Improvement of language](#improvement-of-language)
 - [Useful Skills](#useful-skills)
 
@@ -40,6 +41,10 @@ Why this is extis? Because I don't want to lose knowledge.
 ## LTE
 1. [Basics of LTE](https://www.youtube.com/channel/UCf5srFJ-JofnE8r-bn1o1VA)
 2. [3gpp standard](http://www.3gpp.org/specifications)
+
+## QT
+
+1. [QML](http://qmlbook.github.io/assets/qt5_cadaques.pdf)
 
 ## Improvement of language
 
