@@ -14,10 +14,12 @@ Why this is extis? Because I don't want to lose knowledge.
 - [C sharp](c-sharp)
 - [Programming exercise](#programming-exercise)
 - [Just Embedded things](#just-embedded-things)
-- [LTE](#lte)
+- [ESP32](#esp32)
 - [Qt](#qt)
 - [Machine Learning](#machine-learning)
 - [Improvement of language](#improvement-of-language)
+- [LTE](#lte)
+- [Protocols](#protocols)
 - [Useful Skills](#useful-skills)
 
 <!-- tocstop -->
@@ -46,21 +48,27 @@ Why this is extis? Because I don't want to lose knowledge.
  2. Embedded systems
   - 2a. [Operating Systems, Embedded Systems and Real-Time Systems](http://fides.fe.uni-lj.si/~janezp/operating_systems_embedded_systems_and_real-time_systems.pdf)
 
-
-## LTE
-1. [Basics of LTE](https://www.youtube.com/channel/UCf5srFJ-JofnE8r-bn1o1VA)
-2. [3gpp standard](http://www.3gpp.org/specifications)
+## ESP32
+1. [Espressif](https://docs.espressif.com/projects/esp-idf/en/stable/get-started/)
+2. [Tutorial](https://iotbyhvm.ooo/esp32-ble-tutorials/)
+3. [ESP + Android](https://www.instructables.com/id/ESP32-BLE-Android-App-Arduino-IDE-AWESOME/)
 
 ## QT
 
 1. [Why Qt and QML?](https://medium.com/@yacine.benaffane/why-we-should-use-the-qt-framework-and-the-qml-f01c4edb13cd)
 2. [QML](https://qmlbook.github.io/)
+3. [Felgo](https://felgo.com/)
+
+## Python
+
+1. [FullStack](https://www.fullstackpython.com/web-frameworks.html)
 
 ## C sharp
 
 1. [Build game using WPF](https://scottlilly.com/build-a-cwpf-rpg/)
 2. [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/)
 3. [C# for begginers- Youtube](https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105&index=1)
+4. [Backend WEB API](https://www.script-tutorials.com/backend-web-api-with-c-step-by-step-tutorial/)
 
 ## Programming exercise
 
@@ -76,4 +84,13 @@ Why this is extis? Because I don't want to lose knowledge.
 1. [Best translator](https://www.deepl.com/translator)
 2. [Discussion topics](https://esldiscussions.com/index.html)
 
+## LTE
+1. [Basics of LTE](https://www.youtube.com/channel/UCf5srFJ-JofnE8r-bn1o1VA)
+2. [3gpp standard](http://www.3gpp.org/specifications)
+
+## Protocols
+1. [FTP](https://www.wired.com/2010/02/ftp_for_beginners/#FTPing_with_the_Browser)
+
 ## Useful Skills
+
+1. [Shodan](https://www.shodan.io/store/member/success)
