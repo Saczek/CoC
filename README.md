@@ -11,11 +11,13 @@ Why this is extis? Because I don't want to lose knowledge.
 - [Good to remember](#useful-links)
 - [Freelancer stuff](#freelancer-stuff)
 - [C/CPP Programming](#c-and-cpp-programming)
-- [C sharp](c-sharp)
-- [Programming exercise](#programming-exercise)
-- [Just Embedded things](#just-embedded-things)
-- [ESP32](#esp32)
 - [Qt](#qt)
+- [C sharp](c-sharp)
+- [Python](#python)
+- [Rust](#rust)
+- [ESP32](#esp32)
+- [Just Embedded things](#just-embedded-things)
+- [Programming exercise](#programming-exercise)
 - [Machine Learning](#machine-learning)
 - [Improvement of language](#improvement-of-language)
 - [LTE](#lte)
@@ -50,7 +52,7 @@ Why this is extis? Because I don't want to lose knowledge.
 
 ## ESP32
 1. [Espressif](https://docs.espressif.com/projects/esp-idf/en/stable/get-started/)
-2. [Tutorial](https://iotbyhvm.ooo/esp32-ble-tutorials/)
+2. [Tutorial](https://hackaday.io/project/28632/instructions)
 3. [ESP + Android](https://www.instructables.com/id/ESP32-BLE-Android-App-Arduino-IDE-AWESOME/)
 
 ## QT
@@ -58,6 +60,11 @@ Why this is extis? Because I don't want to lose knowledge.
 1. [Why Qt and QML?](https://medium.com/@yacine.benaffane/why-we-should-use-the-qt-framework-and-the-qml-f01c4edb13cd)
 2. [QML](https://qmlbook.github.io/)
 3. [Felgo](https://felgo.com/)
+
+## Rust
+
+1. [Rust book](https://doc.rust-lang.org/book/index.html)
+2. [Start with Rust](https://www.rust-lang.org/learn)
 
 ## Python
 
