@@ -9,6 +9,7 @@ Why this is extis? Because I don't want to lose knowledge.
 
 <!-- toc -->
 - [Good to remember](#useful-links)
+- [Freelancer stuff](#freelancer-stuff)
 - [C/CPP Programming](#c-and-cpp-programming)
 - [C sharp](c-sharp)
 - [Programming exercise](#programming-exercise)
@@ -25,6 +26,11 @@ Why this is extis? Because I don't want to lose knowledge.
 1. [Many books from SO to learn programming](http://goalkicker.com)
 2. [Syntax *.md files](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 3. [CV Generator](https://latexresu.me)
+
+## Freelancer stuff
+1. [Gtihub company list](https://github.com/lukasz-madon/awesome-remote-job#companies-with-remote-dna)
+2. [Reddit topic](https://www.reddit.com/r/telecommuting/comments/662qsc/looking_for_a_remote_job_here_are_the_best_sites/)
+3. [Company list](https://docs.google.com/spreadsheets/d/1r_kF6uEGe_r5XR91pJqkahToxszJxLoBL6HdMH65xNs/edit#gid=0)
 
 ## C and CPP Programming
 1. [Embedded C. Michael J. Pont](http://www.ecpe.nu.ac.th/ponpisut/22323006-Embedded-c-Tutorial-8051.pdf)
@@ -47,7 +53,8 @@ Why this is extis? Because I don't want to lose knowledge.
 
 ## QT
 
-1. [QML](https://qmlbook.github.io/)
+1. [Why Qt and QML?](https://medium.com/@yacine.benaffane/why-we-should-use-the-qt-framework-and-the-qml-f01c4edb13cd)
+2. [QML](https://qmlbook.github.io/)
 
 ## C sharp
 
@@ -58,11 +65,15 @@ Why this is extis? Because I don't want to lose knowledge.
 ## Programming exercise
 
 1. [Exercise](https://exercism.io/tracks/csharp/exercises)
+2. [Portfolio](https://www.codementor.io/npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
 
 ## Machine Learning
 
 1. [Open AI - GYM](https://gym.openai.com/docs/)
 
 ## Improvement of language
+
+1. [Best translator](https://www.deepl.com/translator)
+2. [Discussion topics](https://esldiscussions.com/index.html)
 
 ## Useful Skills
