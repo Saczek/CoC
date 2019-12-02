@@ -40,6 +40,7 @@ Why this is extis? Because I don't want to lose knowledge.
 1. [Embedded C. Michael J. Pont](http://www.ecpe.nu.ac.th/ponpisut/22323006-Embedded-c-Tutorial-8051.pdf)
   - 1a. [Programming Embedded Systems I](ftp://ftp.ti.com/pub/data_acquisition/MSC_CD-ROM/C_Programming/PrgEmbeddeSys_1perPage.pdf)
   - 1b. [Programming Embedded Systems II](http://www.iuma.ulpgc.es/~nunez/clases-sed-mai-8051/8051-Leicester-UCRiverside/Pont-EmbeddedC-Schedulers-Leicester-pes2ohp_a4.pdf)
+2. [C++](https://thispointer.com/c11-tutorial/)  
 
 ## Just Embedded things
 1. Basic
