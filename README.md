@@ -63,6 +63,7 @@ Why this is extis? Because I don't want to lose knowledge.
 3. [Felgo](https://felgo.com/)
 
 ## Rust
+0! [Everything about Rust in one place (really!)](https://awesomeopensource.com/project/ctjhoa/rust-learning)
 
 1. [Rust book](https://doc.rust-lang.org/book/index.html)
 2. [Start with Rust](https://www.rust-lang.org/learn)
