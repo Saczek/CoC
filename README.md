@@ -61,6 +61,7 @@ Why this is extis? Because I don't want to lose knowledge.
 1. [Why Qt and QML?](https://medium.com/@yacine.benaffane/why-we-should-use-the-qt-framework-and-the-qml-f01c4edb13cd)
 2. [QML](https://qmlbook.github.io/)
 3. [Felgo](https://felgo.com/)
+4. [QT book](https://github.com/eddykim777/qtbook)
 
 ## Rust
 0! [Everything about Rust in one place (really!)](https://awesomeopensource.com/project/ctjhoa/rust-learning)
