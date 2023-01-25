@@ -70,6 +70,7 @@ Why this is extis? Because I don't want to lose knowledge.
 2. [Start with Rust](https://www.rust-lang.org/learn)
 3. [24 days of Rust](https://zsiciarz.github.io/24daysofrust/book/vol1/index.html)
 4. [tutorialspoint Rust tutorial](https://www.tutorialspoint.com/rust/rust_tutorial.pdf)
+5. [Safe interop between Rust and C++](https://cxx.rs/)
 
 ## Python
 
