@@ -23,6 +23,8 @@ Why this is extis? Because I don't want to lose knowledge.
 - [LTE](#lte)
 - [Protocols](#protocols)
 - [Useful Skills](#useful-skills)
+- [Opensource](#opensource)
+- [AI tools](#ai-tools)
 
 <!-- tocstop -->
 
@@ -71,6 +73,8 @@ Why this is extis? Because I don't want to lose knowledge.
 3. [24 days of Rust](https://zsiciarz.github.io/24daysofrust/book/vol1/index.html)
 4. [tutorialspoint Rust tutorial](https://www.tutorialspoint.com/rust/rust_tutorial.pdf)
 5. [Safe interop between Rust and C++](https://cxx.rs/)
+6. [Ritual](https://rust-qt.github.io/)
+7. [Rust for Qt by KDAB](https://github.com/KDAB/cxx-qt/)
 
 ## Python
 
@@ -107,3 +111,12 @@ Why this is extis? Because I don't want to lose knowledge.
 ## Useful Skills
 
 1. [Shodan](https://www.shodan.io/store/member/success)
+
+## Opensource
+1. [OS project explorer](https://up-for-grabs.net/#/filters?tags=)
+2. [Firefox doc](https://firefox-source-docs.mozilla.org)
+3. [Firefox bugs](https://bugzilla.mozilla.org/)
+4. [Firefox contribiute](https://codetribute.mozilla.org)
+
+## AI tools
+1. [Futurepedia tools explorer](https://www.futurepedia.io)
